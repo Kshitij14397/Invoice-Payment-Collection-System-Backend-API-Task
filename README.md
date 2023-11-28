@@ -1,6 +1,6 @@
 # Invoice-Payment-Collection-System-Backend-API-Task
 
-# Setup Instructions
+## Setup Instructions
 
 # 1) Open the repository in Visual Studio Code.
 # 2) Open the terminal and run the command: "npm i" to install the required packages from package.json and also to create the node_modules folder.
