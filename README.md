@@ -47,5 +47,5 @@
   
 ## Note
 ### 1) I have hosted my database on the MongoDB Atlas which is a cloud service provided by the developers of MongoDB.
-### 2) Host: http://127.0.0.1:8000/
+### 2) Server hosted on: http://127.0.0.1:8000/
 ### 3) For storing JWT Token in postman I have used "Bearer Token" concept.
