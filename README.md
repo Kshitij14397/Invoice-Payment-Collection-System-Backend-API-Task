@@ -9,6 +9,11 @@
 ## Schema Relationship
 ### 1) Here receiverID and payerID refers the User Schema.
 ### 2) Here invoiceID refers the Invoice Schema and receiverID and payerID refers the User Schema.
+
+### Main Logic
+### 1) Here Payer will be able to "create transaction"
+### 2) Here Receiver will be able to "create invoices"
+### 3) Admin will have all the authorization to access all routes and make changes in the tables.
   
 ## Setup Instructions
 ### 1) Open the repository in Visual Studio Code.
