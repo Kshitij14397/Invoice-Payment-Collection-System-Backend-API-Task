@@ -36,7 +36,7 @@
 ### 2) http://127.0.0.1:8000/api/v1/invoices/:id (GET/PATCH/DELETE)
 
 ### Transactions
-### 1) ### 1) http://127.0.0.1:8000/api/v1/transactions (GET ALL TRANSACTIONS/CREATE)
+### 1) http://127.0.0.1:8000/api/v1/transactions (GET ALL TRANSACTIONS/CREATE)
 ### 2) http://127.0.0.1:8000/api/v1/transactions/:id (GET/PATCH/DELETE)
   
 ## Note
