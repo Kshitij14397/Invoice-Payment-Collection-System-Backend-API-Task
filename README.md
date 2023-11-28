@@ -5,6 +5,7 @@
 ### 2) Invoice Schema(description, amount, status, dueDate, timestamp, receiverID, payerID). 
 ### 3) Transaction Schema(invoiceID, payerID, receiverID, amount, status, paymentMethod, timestamp). 
 ### Here in all the schemas "_id" will be implicitely added as a primary key by MongoDB.
+### In the User Schema, email and role together will act as a Compound Index. They together can also uniquely identifies documents.
 
 ## Schema Relationship
 ### 1) Here receiverID and payerID refers the User Schema.
