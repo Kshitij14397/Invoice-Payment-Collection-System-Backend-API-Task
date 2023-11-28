@@ -23,6 +23,23 @@
 ### 4) ORM: Mongoose
 ### 5) Authentication & Authorization Algorithm: JWT(JSON Web Token)
 
+## Endpoints
+
+### Users
+### 1) http://127.0.0.1:8000/api/v1/users (GET ALL USERS/CREATE)
+### 2) http://127.0.0.1:8000/api/v1/users/:id (GET/PATCH/DELETE)
+### 3) http://127.0.0.1:8000/api/v1/users/login (POST)
+### 4) http://127.0.0.1:8000/api/v1/users/signup (POST)
+
+### Invoices
+### 1) http://127.0.0.1:8000/api/v1/invoices (GET ALL INVOICES/CREATE)
+### 2) http://127.0.0.1:8000/api/v1/invoices/:id (GET/PATCH/DELETE)
+
+### Transactions
+### 1) ### 1) http://127.0.0.1:8000/api/v1/transactions (GET ALL TRANSACTIONS/CREATE)
+### 2) http://127.0.0.1:8000/api/v1/transactions/:id (GET/PATCH/DELETE)
+  
 ## Note
 ### 1) I have hosted my database on the MongoDB Atlas which is a cloud service provided by the developers of MongoDB.
 ### 2) Host: http://127.0.0.1:8000/
+### 3) For storing JWT Token in postman I have used "Bearer Token" concept.
